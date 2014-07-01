@@ -8,8 +8,8 @@
     <ProjectGuid>{B32AE10B-1598-426D-B535-5B2600B7DC17}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>WpfInfrastructure</RootNamespace>
-    <AssemblyName>WpfInfrastructure</AssemblyName>
+    <RootNamespace>Wpf</RootNamespace>
+    <AssemblyName>Wpf</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <SccProjectName>SAK</SccProjectName>
@@ -78,7 +78,11 @@
     <Compile Include="Colors\WinformsBackgroundBrushBuilder.cs" />
     <Compile Include="Colors\WpfBackgroundBrushBuilder.cs" />
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <Content Include="MyPackage.nuspec">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.
