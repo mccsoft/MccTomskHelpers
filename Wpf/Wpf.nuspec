@@ -8,6 +8,6 @@
         <description>Wpf-related extensions developed at MccTomsk</description>
     </metadata>
     <files>
-        <file src="Wpf\bin\Release\Wpf.dll" target="lib\Wpf.dll" />
+        <file src="Wpf\bin\Release\MccTomskHelpers.Wpf.dll" target="lib\MccTomskHelpers.Wpf.dll" />
     </files>
 </package>
