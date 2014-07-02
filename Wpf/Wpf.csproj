@@ -8,8 +8,8 @@
     <ProjectGuid>{B32AE10B-1598-426D-B535-5B2600B7DC17}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Wpf</RootNamespace>
-    <AssemblyName>Wpf</AssemblyName>
+    <RootNamespace>MccTomskHelpers.Wpf</RootNamespace>
+    <AssemblyName>MccTomskHelpers.Wpf</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <SccProjectName>SAK</SccProjectName>

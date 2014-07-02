@@ -8,8 +8,8 @@
     <ProjectGuid>{32DDE1F1-D042-4E43-9B94-855FA528E6B6}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Helpers.Core</RootNamespace>
-    <AssemblyName>Helpers.Core</AssemblyName>
+    <RootNamespace>MccTomskHelpers.Core</RootNamespace>
+    <AssemblyName>MccTomskHelpers.Core</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <SccProjectName>SAK</SccProjectName>

@@ -8,8 +8,8 @@
     <ProjectGuid>{145A4912-0401-4EE3-A346-A4F778DE40AB}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>WpfInfrastructure.Tests</RootNamespace>
-    <AssemblyName>WpfInfrastructure.Tests</AssemblyName>
+    <RootNamespace>MccTomskHelpers.Wpf.Tests</RootNamespace>
+    <AssemblyName>MccTomskHelpers.Wpf.Tests</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <SccProjectName>SAK</SccProjectName>

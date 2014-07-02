@@ -7,8 +7,8 @@
     <ProjectGuid>{254058B8-DAB9-43F7-979E-FE7EF05F2F31}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Helpers.Concurrency</RootNamespace>
-    <AssemblyName>Helpers.Concurrency</AssemblyName>
+    <RootNamespace>MccTomskHelpers.Concurrency</RootNamespace>
+    <AssemblyName>MccTomskHelpers.Concurrency</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <SccProjectName>SAK</SccProjectName>
