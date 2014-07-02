@@ -8,6 +8,6 @@
         <description>Concurrency-related extensions developed at MccTomsk</description>
     </metadata>
     <files>
-        <file src="Concurrency\bin\Release\Concurrency.dll" target="lib\Concurrency.dll" />
+        <file src="Concurrency\bin\Release\MccTomskHelpers.Concurrency.dll" target="lib\MccTomskHelpers.Concurrency.dll" />
     </files>
 </package>

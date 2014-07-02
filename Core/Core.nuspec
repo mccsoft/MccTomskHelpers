@@ -8,6 +8,6 @@
         <description>Core extensions developed at MccTomsk</description>
     </metadata>
     <files>
-        <file src="Core\bin\Release\Core.dll" target="lib\Core.dll" />
+        <file src="Core\bin\Release\MccTomskHelpers.Core.dll" target="lib\MccTomskHelpers.Core.dll" />
     </files>
 </package>

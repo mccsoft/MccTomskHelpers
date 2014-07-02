@@ -8,6 +8,6 @@
         <description>Collections-related extensions developed at MccTomsk</description>
     </metadata>
     <files>
-        <file src="Collections\bin\Release\Collections.dll" target="lib\Collections.dll" />
+        <file src="Collections\bin\Release\MccTomskHelpers.Collections.dll" target="lib\MccTomskHelpers.Collections.dll" />
     </files>
 </package>
