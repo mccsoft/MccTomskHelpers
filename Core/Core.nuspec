@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+    <metadata>
+        <id>MccTomskHelpers.Core</id>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <description>Core extensions developed at MccTomsk</description>
+    </metadata>
+    <files>
+        <file src="Core\bin\Release\Core.dll" target="lib\Core.dll" />
+    </files>
+</package>

@@ -1,13 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
     <metadata>
-        <id>MccTomskHelpers.WPF</id>
-        <version>1.0.0</version>
-        <authors>Administrator</authors>
+        <id>MccTomskHelpers.Linq</id>
         <requireLicenseAcceptance>false</requireLicenseAcceptance>
-        <description>My package description.</description>
+        <description>Linq-related extensions developed at MccTomsk</description>
     </metadata>
     <files>
-        <file src="Wpf\bin\Release\Wpf.dll" target="lib\Wpf.dll" />
+        <file src="Linq\bin\Release\Linq.dll" target="lib\Linq.dll" />
     </files>
 </package>

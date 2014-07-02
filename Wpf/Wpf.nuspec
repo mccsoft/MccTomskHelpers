@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+    <metadata>
+        <id>MccTomskHelpers.Wpf</id>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <description>Wpf-related extensions developed at MccTomsk</description>
+    </metadata>
+    <files>
+        <file src="Wpf\bin\Release\Wpf.dll" target="lib\Wpf.dll" />
+    </files>
+</package>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+    <metadata>
+        <id>MccTomskHelpers.Collections</id>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <description>Collections-related extensions developed at MccTomsk</description>
+    </metadata>
+    <files>
+        <file src="Collections\bin\Release\Collections.dll" target="lib\Collections.dll" />
+    </files>
+</package>

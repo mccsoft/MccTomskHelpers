@@ -79,7 +79,7 @@
     <Compile Include="Colors\WpfBackgroundBrushBuilder.cs" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="MyPackage.nuspec">
+    <Content Include="Wpf.nuspec">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
   </ItemGroup>
