@@ -1,10 +1,9 @@
 ﻿using System;
 using System.Windows;
-using System.Windows.Controls;
 using System.Windows.Media;
 using System.Windows.Media.Imaging;
 
-namespace WpfInfrastructure
+namespace MccTomskHelpers.Wpf
 {
     /// <summary>
     /// Taken here: http://www.dreamincode.net/code/snippet4326.htm

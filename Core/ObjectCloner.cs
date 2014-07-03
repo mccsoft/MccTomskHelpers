@@ -2,7 +2,7 @@
 using System.IO;
 using System.Runtime.Serialization.Formatters.Binary;
 
-namespace Helpers.Core
+namespace MccTomskHelpers.Core
 {
     public static class ObjectCloner
     {

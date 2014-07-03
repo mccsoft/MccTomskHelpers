@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Windows.Threading;
 
-namespace WpfInfrastructure
+namespace MccTomskHelpers.Wpf
 {
     public class Rendering
     {

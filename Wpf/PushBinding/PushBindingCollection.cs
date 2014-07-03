@@ -1,11 +1,7 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
+﻿using System.Collections.Specialized;
 using System.Windows;
-using System.Collections.Specialized;
 
-namespace PushBindingExtension
+namespace MccTomskHelpers.Wpf.PushBinding
 {
     public class PushBindingCollection : FreezableCollection<PushBinding>
     {

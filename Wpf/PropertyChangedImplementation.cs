@@ -2,7 +2,7 @@
 using System.ComponentModel;
 using System.Linq.Expressions;
 
-namespace WpfInfrastructure
+namespace MccTomskHelpers.Wpf
 {
     [Serializable]
     public class PropertyChangedImplementation : INotifyPropertyChanged

@@ -1,8 +1,8 @@
 ﻿using System.Drawing;
+using MccTomskHelpers.Wpf.Converters;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
-using WpfInfrastructure.Converters;
 
-namespace WpfInfrastructure.Tests.Converters
+namespace MccTomskHelpers.Wpf.Tests.Converters
 {
     [TestClass]
     public class TransparentToColorConverterTest

@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Helpers.Core
+namespace MccTomskHelpers.Core
 {
     public class GcHelper
     {

@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Runtime.InteropServices;
 
-namespace WpfInfrastructure
+namespace MccTomskHelpers.Wpf
 {
     public class DpiHelper
     {

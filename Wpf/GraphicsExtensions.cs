@@ -1,6 +1,6 @@
 ﻿using System.Drawing;
 
-namespace WpfInfrastructure
+namespace MccTomskHelpers.Wpf
 {
     public static class GraphicsExtensions
     {

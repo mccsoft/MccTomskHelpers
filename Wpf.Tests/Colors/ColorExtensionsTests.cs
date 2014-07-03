@@ -1,9 +1,7 @@
-﻿using System.Windows.Media;
+﻿using MccTomskHelpers.Wpf.Colors;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
-using WpfInfrastructure.Colors;
-using WpfInfrastructure.Extensions;
 
-namespace WpfInfrastructure.Tests.Extensions
+namespace MccTomskHelpers.Wpf.Tests.Colors
 {
     [TestClass]
     public class ColorExtensionsTests

@@ -2,10 +2,10 @@
 using System.Drawing;
 using System.IO;
 using System.Windows.Media.Imaging;
-using WpfInfrastructure.Converters;
-using WpfInfrastructure.Interfaces;
+using MccTomskHelpers.Wpf.Converters;
+using MccTomskHelpers.Wpf.Interfaces;
 
-namespace WpfInfrastructure
+namespace MccTomskHelpers.Wpf
 {
     public class BitmapFromUriGetter : IBitmapFromUriGetter
     {

@@ -1,7 +1,7 @@
 using System;
 using System.Drawing;
 
-namespace WpfInfrastructure.Interfaces
+namespace MccTomskHelpers.Wpf.Interfaces
 {
     public interface IBitmapFromUriGetter
     {

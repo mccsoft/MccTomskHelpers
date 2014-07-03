@@ -1,9 +1,8 @@
 ﻿using System.Collections.Generic;
-using System.Collections.Specialized;
 using FluentAssertions;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
-namespace Helpers.Collections.Tests
+namespace MccTomskHelpers.Collections.Tests
 {
     [TestClass]
     public class ChunkyListTests

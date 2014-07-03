@@ -1,8 +1,7 @@
-﻿using System;
-using System.Windows;
+﻿using System.Windows;
 using System.Windows.Media;
 
-namespace WpfInfrastructure.Extensions
+namespace MccTomskHelpers.Wpf.VisualTree
 {
     public static class ExVisualTreeHelper
     {

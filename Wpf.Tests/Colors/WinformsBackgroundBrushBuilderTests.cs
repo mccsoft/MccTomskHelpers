@@ -1,11 +1,11 @@
 ﻿using System.Drawing;
 using System.Drawing.Drawing2D;
 using FluentAssertions;
+using MccTomskHelpers.Wpf.Colors;
+using MccTomskHelpers.Wpf.Colors.Model;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
-using WpfInfrastructure.Colors;
-using WpfInfrastructure.Colors.Model;
 
-namespace WpfInfrastructure.Tests.Extensions
+namespace MccTomskHelpers.Wpf.Tests.Colors
 {
     [TestClass]
     public class WinformsBackgroundBrushBuilderTests

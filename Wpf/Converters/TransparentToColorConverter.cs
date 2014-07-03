@@ -3,7 +3,7 @@ using System.Drawing;
 using System.Globalization;
 using System.Windows.Data;
 
-namespace WpfInfrastructure.Converters
+namespace MccTomskHelpers.Wpf.Converters
 {
     public class TransparentToColorConverter : IValueConverter
     {

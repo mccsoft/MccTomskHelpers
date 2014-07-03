@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace WpfInfrastructure.KindOfMagic
+namespace MccTomskHelpers.Wpf.KindOfMagic
 {
     public class MagicAttribute : Attribute
     {

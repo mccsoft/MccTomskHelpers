@@ -3,7 +3,7 @@ using System.Diagnostics;
 using System.Text;
 using System.Windows;
 
-namespace WpfInfrastructure.TraceListener
+namespace MccTomskHelpers.Wpf.TraceListener
 {
     public class BindingErrorTraceListener : DefaultTraceListener
     {

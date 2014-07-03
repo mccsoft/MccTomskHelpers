@@ -1,6 +1,6 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
 
-namespace Helpers.Collections.Tests
+namespace MccTomskHelpers.Collections.Tests
 {
     [TestClass]
     public class ChunkyMemoryStreamTests

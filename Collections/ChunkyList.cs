@@ -2,7 +2,7 @@
 using System.Collections;
 using System.Collections.Generic;
 
-namespace Helpers.Collections
+namespace MccTomskHelpers.Collections
 {
     public class ChunkyList<T> : IList<T>
     {

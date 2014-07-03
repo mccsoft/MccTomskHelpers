@@ -1,6 +1,6 @@
 ﻿using System.Windows.Media;
 
-namespace WpfInfrastructure.Colors
+namespace MccTomskHelpers.Wpf.Colors
 {
     public static class ColorExtensions
     {

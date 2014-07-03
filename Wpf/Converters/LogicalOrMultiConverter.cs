@@ -2,7 +2,7 @@
 using System.Globalization;
 using System.Windows.Data;
 
-namespace WpfInfrastructure.Converters
+namespace MccTomskHelpers.Wpf.Converters
 {
     public class LogicalOrMultiConverter : IMultiValueConverter
     {

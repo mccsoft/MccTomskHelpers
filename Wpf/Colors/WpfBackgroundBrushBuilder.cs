@@ -1,9 +1,9 @@
 ﻿using System;
 using System.Windows;
 using System.Windows.Media;
-using WpfInfrastructure.Colors.Model;
+using MccTomskHelpers.Wpf.Colors.Model;
 
-namespace WpfInfrastructure.Colors
+namespace MccTomskHelpers.Wpf.Colors
 {
     public class WpfBackgroundBrushBuilder
     {

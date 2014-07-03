@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace Helpers.Collections
+namespace MccTomskHelpers.Collections
 {
     public static class BinarySearchExtension
     {

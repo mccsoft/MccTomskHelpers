@@ -1,8 +1,7 @@
-﻿using System;
-using System.IO;
+﻿using System.IO;
 using System.Threading;
 
-namespace Helpers.Collections
+namespace MccTomskHelpers.Collections
 {
     public static class StreamExtensions
     {

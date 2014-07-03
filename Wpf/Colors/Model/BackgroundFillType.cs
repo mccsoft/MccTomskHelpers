@@ -1,4 +1,4 @@
-namespace WpfInfrastructure.Colors.Model
+namespace MccTomskHelpers.Wpf.Colors.Model
 {
     public enum BackgroundFillType
     {

@@ -1,10 +1,10 @@
 ﻿using System;
 using System.Drawing;
 using System.Drawing.Drawing2D;
-using WpfInfrastructure.Colors.Interfaces;
-using WpfInfrastructure.Colors.Model;
+using MccTomskHelpers.Wpf.Colors.Interfaces;
+using MccTomskHelpers.Wpf.Colors.Model;
 
-namespace WpfInfrastructure.Colors
+namespace MccTomskHelpers.Wpf.Colors
 {
     public class WinformsBackgroundBrushBuilder : IWinformsBackgroundBrushBuilder
     {

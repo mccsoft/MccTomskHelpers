@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 using System.Linq;
 
-namespace LinqExtension
+namespace MccTomskHelpers.Linq
 {
     public static class EnumerableExtensions
     {

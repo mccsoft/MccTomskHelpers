@@ -1,7 +1,7 @@
 ﻿using System.Drawing;
-using WpfInfrastructure.Colors.Model;
+using MccTomskHelpers.Wpf.Colors.Model;
 
-namespace WpfInfrastructure.Colors.Interfaces
+namespace MccTomskHelpers.Wpf.Colors.Interfaces
 {
     public interface IWinformsBackgroundBrushBuilder
     {
