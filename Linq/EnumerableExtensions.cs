@@ -27,5 +27,13 @@ namespace MccTomskHelpers.Linq
         {
             return source.Skip(offset).Take(duration);
         }
+
+        public static void ForEach<T>(this IEnumerable<T> enumeration, Action<T> action)
+        {
+            foreach (T item in enumeration)
+            {
+                action(item);
+            }
+        }
     }
 }
